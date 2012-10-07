@@ -10,7 +10,7 @@
     { "name": "Guillermo Rauch", "email": "rauchg@gmail.com" }
   ],
   "dependencies": {
-    "connect": "git://github.com/tenthbitinc/connect.git#36a35101743081e07e4ed46a0a677f281605d5c2",
+    "connect": "git://github.com/tenthbitinc/connect.git#c4af1359b82ff7ad6cd65b751e5fa049ff2f3f00",
     "commander": "0.6.1",
     "range-parser": "0.0.4",
     "mkdirp": "0.3.3",
